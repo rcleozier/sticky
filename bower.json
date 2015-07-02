@@ -1,6 +1,6 @@
 {
-    "name": "jquery-sticky",
-    "description": "Sticky is a jQuery plugin that gives you the ability to make any element on your page always stay visible.",
+    "name": "jquery-sticky-extended",
+    "description": "An extended version to sticky. A jQuery plugin that gives you the ability to make any element on your page always stay visible.",
     "categories": [ "UI", "DOM" ],
     "author": {
         "name": "Anthony Garand"
@@ -18,10 +18,10 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/garand/sticky.git"
+        "url": "https://github.com/rcleozier/sticky.git"
     },
     "bugs": {
-        "web": "https://github.com/garand/sticky/issues"
+        "web": "https://github.com/rcleozier/sticky/issues"
     },
     "licenses": [
         {
@@ -33,7 +33,7 @@
             "url": "http://jquery.com/blob/master/GPL-LICENSE.txt"
         }
     ],
-    "github": "https://github.com/garand/sticky",
+    "github": "https://github.com/rcleozier/sticky",
 
     "main": "jquery.sticky.js",
     "dependencies": {
